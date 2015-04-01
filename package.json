@@ -1,0 +1,27 @@
+{
+  "name": "gcloud-datastore-util",
+  "description": "Utility for Google Cloud Datastore.",
+  "version": "0.1.0",
+  "keywords": [
+    "utility",
+    "datastore",
+    "gcloud"
+  ],
+  "author": {
+    "name": "Chao Huang",
+    "email": "chao@realguess.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:realguess/gcloud-datastore-util.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1"
+  },
+  "main": "lib/index",
+  "scripts": {
+    "test": "mocha"
+  }
+}
