@@ -37,7 +37,15 @@ Unreleased
  * Add the default case to handle unknown cases in user group assigning.
 
 
-0.0.1 / 2015-04-01 
+0.1.1 / 2015-04-22 
+------------------
+
+### Fixed
+
+ * Fix maximum call stack size exceeded error
+
+
+0.1.0 / 2015-04-01 
 ------------------
 
 ### Added
