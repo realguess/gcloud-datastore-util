@@ -37,6 +37,14 @@ Unreleased
  * Add the default case to handle unknown cases in user group assigning.
 
 
+0.1.2 / 2015-05-17
+------------------
+
+### Fixed
+
+ * Fix the bug on implementing the wrong callback function
+
+
 0.1.1 / 2015-04-22 
 ------------------
 

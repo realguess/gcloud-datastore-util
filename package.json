@@ -1,7 +1,7 @@
 {
   "name": "gcloud-datastore-util",
   "description": "Utility for Google Cloud Datastore.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": [
     "utility",
     "datastore",
